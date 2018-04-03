@@ -1,0 +1,273 @@
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:13 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (4.5ms)
+Completed 200 OK in 1144ms (Views: 41.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:26 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 4.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:27 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 6ms (Views: 4.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:27 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 6ms (Views: 4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:27 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:27 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:27 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (5.9ms)
+Completed 200 OK in 8ms (Views: 7.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (4.7ms)
+Completed 200 OK in 7ms (Views: 6.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (6.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 6ms (Views: 4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 2.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 6ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 6ms (Views: 5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:30 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 5ms (Views: 4.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:30 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 5ms (Views: 3.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:30 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:30 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 5ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:30 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 3.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 6ms (Views: 5.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 6ms (Views: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:32 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:32 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 4.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:32 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 4ms (Views: 3.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:32 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 5ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:32 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 6ms (Views: 3.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:33 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:33 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-30 22:20:33 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 8ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-01 22:24:24 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jorge/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (7.1ms)
+Completed 200 OK in 1117ms (Views: 47.3ms)
+
+
